@@ -373,7 +373,7 @@ function App() {
                   sakamanish8@gmail.com
                 </a>
                 <a 
-                  href="https://github.com/yourusername"
+                  href="https://github.com/sakamanish"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={handleClick}
@@ -383,7 +383,7 @@ function App() {
                   GitHub Profile
                 </a>
                 <a 
-                  href="https://linkedin.com/in/yourprofile"
+                  href="https://www.linkedin.com/in/saka-manish-404888334/"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={handleClick}
@@ -393,7 +393,7 @@ function App() {
                   LinkedIn Profile
                 </a>
                 <a 
-                  href="https://instagram.com/yourprofile"
+                  href="https://www.instagram.com/life.of.sonu/"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={handleClick}
