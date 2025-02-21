@@ -77,7 +77,7 @@ function App() {
   const projects = [
     {
       title: "Lumina Enterprises",
-      url: "https://luminaenterprises.netlify.app",
+      url: "https://luminaenterprises.in",
       icon: <Globe size={24} />,
       description: "A comprehensive business website showcasing enterprise solutions and services.",
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80"
@@ -91,10 +91,17 @@ function App() {
     },
     {
       title: "Fashion Hub",
-      url: "https://fashionhub.netlify.app",
+      url: "https://fashionfuture.netlify.app",
       icon: <Globe size={24} />,
       description: "An e-commerce platform for fashion and lifestyle products.",
       image: "https://images.unsplash.com/photo-1445205170230-053b83016050?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+    },
+    {
+      title: "TCDAU",
+      url: "https://tcdau.com.",
+      icon: <Globe size={24} />,
+      description: "An Artist Union.",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80"
     },
     {
       title: "AI Face Expression Detector",
