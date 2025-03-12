@@ -104,6 +104,20 @@ function App() {
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80"
     },
     {
+      title: "Omkar System",
+      url: "https://omkarsystem.netlify.app",
+      icon: <Globe size={24} />,
+      description: "For the media people.",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80"
+    },
+    {
+      title: "Sai Multiservices",
+      url: "https://saimultiservices.onrendor.com",
+      icon: <Globe size={24} />,
+      description: "One place for all documents.",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80"
+    },
+    {
       title: "AI Face Expression Detector",
       icon: <Brain size={24} />,
       description: "Machine learning application that detects and analyzes facial expressions in real-time.",
