@@ -227,7 +227,7 @@ function App() {
                 { icon: <Github size={24} />, url: "https://github.com/sakamanish", label: "GitHub" },
                 { icon: <Linkedin size={24} />, url: "https://www.linkedin.com/in/saka-manish-404888334/", label: "LinkedIn" },
                 { icon: <Facebook size={24} />, url: "https://www.facebook.com/itzsakamanish/", label: "Facebook" },
-                { icon: <Instagram size={24} />, url: "https://www.instagram.com/life.of.sonu/", label: "Instagram" },
+                { icon: <Instagram size={24} />, url: "https://www.instagram.com/saka_manish/", label: "Instagram" },
                 { icon: <Mail size={24} />, url: "mailto:sakamanish8@gmail.com", label: "Email" }
               ].map((social, index) => (
                 <a
@@ -414,7 +414,7 @@ function App() {
                   LinkedIn Profile
                 </a>
                 <a 
-                  href="https://www.instagram.com/life.of.sonu/"
+                  href="https://www.instagram.com/saka_manish/"
                   target="_blank"
                   rel="noopener noreferrer"
                   onClick={handleClick}
